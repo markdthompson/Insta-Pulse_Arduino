@@ -1,3 +1,9 @@
+/**
+ * insta-pulse.ino
+ * a basic "hello world" sketch that demonstrates reading the 5v TTL pulse, 
+ * triggering an LED & calculating beats-per-minute (BPM) using the inter-beat interval (IBI)
+ * */
+
 int inPin = 2; // insta-pulse input pin
 int outPin = 13; // LED
 
