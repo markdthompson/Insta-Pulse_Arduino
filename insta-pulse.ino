@@ -13,8 +13,6 @@ unsigned long time = 0; // inter-beat interval counter
 
 int sensorVal = LOW; // sensor value, HIGH or LOW
 
-char buffer[64] = {0}; // output buffer for debugging
-
 void setup() {
   //start serial connection, go fast
   Serial.begin(115200);
