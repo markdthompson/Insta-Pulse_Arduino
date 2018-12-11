@@ -1,5 +1,5 @@
 # Insta-Pulse_Arduino
-This is a "Hello World" sketch for communicating with the Insta-Pulse 105 with 5v TTL pulse output.
+This is a "Hello World" sketch for communicating with the [Insta-Pulse 105 with 5v TTL pulse output](https://www.amazon.com/Biosig-Instruments-Insta-Pulse-Institutional-Model/dp/B001LORSYU).
 
 It demonstrates connecting an Arduino UNO to the Insta-Pulse 105 with 5V TTL pulse output, triggering an LED to blink with each heartbeat, and calculating beats-per-minute (BPM) using the inter-beat interval (IBI).
 
